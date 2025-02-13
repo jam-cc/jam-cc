@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jam-cc
 - 👀 I’m interested in Deep Learning 
-- 🌱 I’m currently learning Federated Learning and Network Analysis
-- 💞️ I’m looking to collaborate on Thesis Writing
+- 🌱 I’m currently learning Computer Vision and Anomaly Detection
+- 💞️ I’m looking for an opportunity for Academic Visiting
 - 📫 How to reach me: jiangx2020@mail.sustech.edu.cn
 
 <!---
