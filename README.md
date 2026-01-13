@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jam-cc
+- 👋 Hi, I’m Xi Jiang, a PhD student in SUSTech
 - 👀 I’m interested in Deep Learning 
 - 🌱 I’m currently learning Computer Vision and Anomaly Detection
 - 💞️ I’m looking for an opportunity for Academic Visiting
